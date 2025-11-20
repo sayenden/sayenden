@@ -1,111 +1,164 @@
-# Hi, I'm Sayenden.
+# 👋 Hi, I'm Sayenden
 
-I build systems that reduce cognitive load, streamline decisions, and give small teams and individual builders more leverage.  
-My work sits at the intersection of automation, money, rewards, and agents.
+I design and build systems that reduce cognitive load, improve decision-making, and give individuals and small teams more leverage.  
+My work lives where automation, money, rewards, and agentic systems overlap.
 
-I’ve been building zero-to-one products for more than a decade. My first company, RealtyForSale, grew quickly, was covered in major press (Yahoo! Finance, Globe & Mail, Toronto Star, Vancouver Sun), won a BC Business 30 Under 30 award, and I eventually sold my position. That experience anchored how I think about product: find a real problem, work backward, ship, learn, iterate.
-
-During the week, I work in big tech shipping large-scale systems. Nights and weekends are where I pursue the ideas I’m convinced should exist.
-
----
-
-## What I’m Building
-
-### Agentsie 
-Agentsie is my exploration into the idea that small businesses should operate with agentic leverage.  
-If you run a business, you usually need people to handle SEO, analytics, research, partnerships, insights, content shaping, market scanning, and more. Most small teams can’t hire for all of that.
-
-Agentsie tries to answer a simple question:  
-**What if you could spin up scoped agents as if they were team members?**
-
-An SEO agent.  
-A research agent.  
-A retention agent.  
-A points-and-perks intelligence agent.  
-A competitor-tracking agent.
-
-Defined scopes. Predictable behavior. Real contribution.
-
-I’m proving it first inside Walletsie. If agents can materially support Walletsie, they can support many other small businesses too.
+[![GitHub](https://img.shields.io/badge/GitHub-sayenden-181717?logo=github)](https://github.com/sayenden)
+[![X](https://img.shields.io/badge/X-@sayenden-000000?logo=x)](https://x.com/sayenden)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayenden-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayenden)
+[![Role](https://img.shields.io/badge/Role-Senior%20PM%20%40%20Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/)
+[![Focus](https://img.shields.io/badge/Focus-Agentic%20Workforces%20%26%20Fintech-4B8BBE)](#-the-idea-agentic-workforces)
 
 ---
 
-### Walletsie  
-Walletsie is the real business where I apply agentic systems to a problem I care deeply about: money and everyday financial decisions.
+## 🧩 My Path as a Builder
 
-It’s part financial guide, part rewards brain, part automation layer.  
-The goal is to help people reduce the mental overhead of managing money, make better decisions, and surface opportunities they’d miss on their own.
+I’ve been building zero-to-one products for over a decade.
 
-Walletsie is also my testbed:  
-How far can agentic systems go in supporting a live product with real users and evolving needs?
+My first company, **RealtyForSale**, was an ML-powered real estate marketplace that:
+- scaled to meaningful traction,  
+- was covered in **Yahoo! Finance**, **Globe & Mail**, **Toronto Star**, **Vancouver Sun**,  
+- earned a **BC Business 30 Under 30** award,  
+- and eventually led to me selling my position.
 
-https://walletsie.com/
+That experience anchored how I think about product:
+> find real tension → design the right system → ship early → learn hard → simplify.
 
----
-
-## How I Think About Product
-
-My work tends to revolve around problems that feel messy:
-- high cognitive load  
-- repeated decisions  
-- behavior-driven patterns  
-- ambiguous workflows  
-- information that’s hard to organize but important to understand  
-
-I like:
-- starting from scratch  
-- stripping away everything unnecessary  
-- shipping fast and fixing what matters  
-- building systems that scale quietly  
-- tools that make people feel more capable, not more overwhelmed  
-
-Zero-to-one isn’t a phase — it’s a mindset:  
-take something unclear, understand the core tension, and turn it into something real.
+Today:
+- I’m a **Senior Product Manager at Amazon**, working on large-scale systems and AI-driven decision tooling.  
+- Outside of work, I’m focused on **Agentsie** and **Walletsie** — my long-term explorations into agentic product systems.
 
 ---
 
-## My View on Agents
+## 🚀 The Idea: Agentic Workforces
 
-Software is shifting from a world of “tools you operate” to “teammates you assign work to.”  
-Not general AI, not magic — just scoped, reliable agents that handle meaningful responsibilities.
+Software is shifting from tools you operate to teammates you assign work to.
 
-Agents at their best should:
+I call this shift **agentic workforces**:
+- not generic assistants,  
+- not one-off scripts,  
+- but scoped, reliable agents that own real responsibilities.
+
+These agents:
 - observe  
 - reason  
 - take action  
 - report back  
-- and stay within well-defined boundaries  
+- and stay inside clear boundaries
 
-Agentsie is my way of building a practical version of this future.  
-Walletsie is where the theory meets reality.
-
-I care less about hype and more about whether agents can:
-- uncover opportunities  
-- reduce friction  
-- provide leverage to small teams  
-- and make decisions easier and clearer  
-
-That’s the through-line of my work.
+My work is about making that concept real inside actual products, not just demos.
 
 ---
 
-## About Me
+## 🧱 What I'm Building
 
-• Builder first, PM second  
-• Co-founded and exited RealtyForSale  
-• Press features: Yahoo! Finance, Globe & Mail, Toronto Star, Vancouver Sun  
-• BC Business 30 Under 30 recipient  
-• Build Walletsie and Agentsie outside my day job  
-• Interested in automation, agents, fintech, decision systems, rewards optimization  
-• I learn by shipping, not theorizing  
+### 🧠 Agentsie — Agentic leverage for small businesses
 
-If you’re working on agentic workflows, automation for small teams, or decision systems, I’m always open to talk.
+**Agentsie** explores how small businesses can scale by adding agents instead of headcount.
+
+Examples of agent “roles” I care about:
+- SEO and organic discovery  
+- content and research scanning  
+- competitor and market tracking  
+- customer and retention insights  
+- rewards and points intelligence  
+
+Each agent is modeled more like a teammate than a tool:
+- defined scope  
+- owned responsibilities  
+- specific tools and data  
+- handoff rules  
+- reporting and review
+
+I use **Walletsie** as the proving ground for these agents.
 
 ---
 
-## Links
+### 💳 Walletsie — Money, rewards, and everyday decisions
 
-GitHub: https://github.com/sayenden  
-X: https://x.com/sayenden  
-LinkedIn: https://linkedin.com/in/sayenden  
-Email: sayenden@sprucehill.co
+**Walletsie** is a product in a space I care deeply about:  
+how people make everyday decisions about money and rewards.
+
+It’s part financial guide, part rewards engine, part automation layer.
+
+Walletsie aims to:
+- reduce the mental overhead of managing money,  
+- surface opportunities you’d usually miss,  
+- make tradeoffs and value clearer,  
+- and quietly automate repetitive reasoning.
+
+It’s also the live environment where agentic workflows from Agentsie are tested under real constraints.
+
+🔗 https://walletsie.com/
+
+---
+
+## 🎛 How I Think About Product
+
+I’m drawn to problems that are:
+- behavior-heavy  
+- ambiguous  
+- cognitively demanding  
+- full of repeated decisions  
+- important, but hard to structure  
+
+When I design and build, I try to:
+- start from first principles  
+- strip away noise and ceremony  
+- ship something real quickly  
+- tune based on actual usage  
+- build systems that scale quietly in the background  
+
+For me, zero-to-one isn’t a phase — it’s a way of working.
+
+---
+
+## 🤖 Why Agents Matter
+
+Agents give individuals and small teams a kind of operational leverage that used to require headcount.
+
+Done right, agents can:
+- monitor signals and conditions,  
+- surface insights and patterns,  
+- automate well-understood workflows,  
+- support consistent decision-making,  
+- and extend what a single builder can realistically handle.
+
+**Agentsie** is where I develop these patterns.  
+**Walletsie** is where they have to prove themselves.
+
+---
+
+## 🎨 Product, Systems, and Taste
+
+I care about:
+- systems that make people feel more capable, not more overwhelmed  
+- interfaces that respect attention and context  
+- flows that compress complexity into clear, actionable choices  
+- products that have a point of view  
+
+A lot of my work is deciding what *not* to let agents do — scope and boundaries are design decisions.
+
+---
+
+## 📌 About Me
+
+- Senior Product Manager at **Amazon**  
+- Builder first, PM second  
+- Co-founded and exited **RealtyForSale**  
+- Press: Yahoo! Finance, Globe & Mail, Toronto Star, Vancouver Sun  
+- **BC Business 30 Under 30** recipient  
+- Building **Walletsie** and **Agentsie** independently  
+- Interested in agentic systems, fintech, rewards, automation, and decision architecture  
+- I learn by shipping
+
+If you're working on agentic workflows, decision systems, or small-business leverage, I’m always open to connect.
+
+---
+
+## 🔗 Links
+
+[GitHub](https://github.com/sayenden)  
+[X](https://x.com/sayenden)  
+[LinkedIn](https://linkedin.com/in/sayenden)  
+Email: **sayenden@sprucehill.co**

@@ -1,54 +1,157 @@
-Hi, I'm Sayenden 👋
+<div align="center">
 
-I build products, design systems, and solve messy problems.  
-Weekdays, I work in big tech leading product areas that need structure, clarity, and tight execution.  
-Nights and weekends, I build and invest in things I wish existed.
+Hi, I'm **Sayenden** 👋
 
-I like working where behavior, money, and automation meet.
+Builder · Agentic Systems · Automation · Money, Rewards & Decision-Making
+
+I’m exploring how far a single builder can go with a network of agents doing real work.
+
+[![X (Twitter)](https://img.shields.io/badge/X-@sayenden-000000?logo=twitter&logoColor=white)](https://x.com/sayenden)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayenden-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayenden)
+[![Website](https://img.shields.io/badge/Website-sprucehill.co-1F2933)](https://sprucehill.co)
+[![Email](https://img.shields.io/badge/Email-sayenden%40sprucehill.co-D14836?logo=gmail&logoColor=white)](mailto:sayenden@sprucehill.co)
+
+</div>
 
 ---
 
-🔧 What I’m Building
+## 🌱 Where This Started
 
-💳 Walletsie
-A smarter layer on top of your money. It routes funds, applies rules, and automates the boring parts of personal finance.  
+I’ve been building products for a while.  
+My first real attempt was **RealtyForSale**, a zero→one real estate marketplace that taught me what building actually feels like — uncertainty, iteration, and the occasional “this might actually work” moment.
+
+Weekdays, I work in big tech. I help shape systems at scale, learn from people sharper than me, and try to stay pretty humble about it.
+
+Nights and weekends are where I chase the ideas that don’t let go.
+
+---
+
+## 🧵 The Opportunity I’m Going After
+
+I keep coming back to the same cluster of problems:
+
+- Money and financial decisions  
+- Rewards, points, and value extraction  
+- Search, discovery, and content  
+- Automation and workflows  
+- Agents that can own real chunks of work  
+
+I don’t think the next wave of products in this space will be just “another app” or dashboard.  
+I think they’ll be **collections of focused agents** that understand context, do work, and help people decide with less friction.
+
+**Walletsie** is my focused way into that opportunity.  
+**Agentsie** is the enabling layer that makes it scalable.
+
+---
+
+## 🔧 What I’m Building
+
+### 🧠 Agentsie — Agentic Workforce for Small Businesses
+
+**Agentsie** is my attempt to help small businesses “hire” agents like they’d hire employees.
+
+Instead of needing a full team for things like:
+- SEO and organic discovery  
+- content and research  
+- competitor and market monitoring  
+- analytics and retention insights  
+
+…you should be able to spin up scoped agents that:
+- own a narrow slice of work  
+- plug into your existing stack  
+- collaborate with other agents  
+- and report back with clear, explainable output
+
+I’m using **Walletsie** as the proving ground. If agents can reliably support different parts of Walletsie, they can support other small businesses too.
+
+---
+
+### 💳 Walletsie — Money, Rewards, and Everyday Financial Choices
+
+**Walletsie** is the business I’m building in the middle of this opportunity space.
+
+It sits somewhere between:
+- a money copilot  
+- a rewards optimizer  
+- a trusted guide for “what’s the smart move here?”  
+
+The long-term arc I’m exploring is:
+
+- How much of the repetitive, analytical work around money and rewards can be handled by agents?  
+- How can automation and agents reduce the cognitive load of everyday decisions without taking control away from the user?
+
+Walletsie is both a real product and a testbed for agentic operations.
+
 https://walletsie.com/
 
-🌲 Spruce Hill
-A small, selective early-stage fund backing builders who move quickly and think independently.  
+---
+
+### 🌲 Spruce Hill — Supporting Other Builders
+
+**Spruce Hill** is a small, selective fund I run to support early builders.
+
+It keeps me close to:
+- how other people are attacking hard problems  
+- what kinds of tools and systems they wish existed  
+- where agents and automation might actually help, not just sound good in a deck
+
 https://sprucehill.co/
 
 ---
 
-🧠 What I Work On
+## 🧠 How I Work
 
-- Product systems from scratch: turning ambiguous spaces into real products  
-- Automation + AI workflows that remove friction from everyday work  
-- Data-shaped decision-making: experiments, insights, and focused loops  
-- Cross-functional execution across engineering, design, analytics, ops  
-- Tools, scripts, and smaller builds that solve actual problems in my day-to-day life  
+I gravitate toward problems that are:
 
-I’ve worked across both large-scale systems and consumer surfaces.  
-My approach stays constant: clarity, speed, and strong product taste.
+- behavior-driven  
+- messy and nonlinear  
+- full of repeated decisions  
+- high in cognitive overhead  
+
+I like:
+- starting from scratch  
+- shipping small, fast experiments  
+- tightening feedback loops with real users  
+- tools that simplify, not impress  
+- systems that scale quietly in the background  
+
+I’ve worked across both large-scale internal systems and smaller consumer-facing products, but the pattern I care about most is simple:  
+**take something from nothing → something real.**
+
+---
+
+## 🚀 Why I’m Building This
+
+I think software is shifting from being a **collection of tools** to being more like a **team you collaborate with**.
+
+In that world:
+- individuals and small teams can punch way above their weight  
+- agents can own ongoing responsibilities, not just one-off tasks  
+- and the boundary between “builder” and “organization” looks different
+
+I’m building **Agentsie** to explore that shift directly.  
+I’m building **Walletsie** because money, rewards, and everyday decisions are where this feels especially valuable and human.
+
+The goal isn’t to posture about scale.  
+It’s to see how far a focused builder can go with the right agentic layer — and to build useful, grounded products along the way.
 
 ---
 
-📌 About Me
+## 📌 About Me
 
-- Senior product leader in big tech  
-- Background in zero→one execution, systems design, and scaling mechanisms  
-- Builder of Walletsie; investor at Spruce Hill  
-- Interested in fintech, automation, behavior change, and compounding systems  
-- Always working on simplifying or automating something
+- Builder at heart, PM by trade  
+- Started with **RealtyForSale** (0→1 ML-powered marketplace)  
+- Work in big tech; build **Walletsie** and **Agentsie** outside of it  
+- Interested in agents, automation, fintech, rewards, and decision systems  
+- Learn by shipping, not by theorizing
 
-If you’re building early in fintech or automation, reach out — I like talking to people who make things.
-
-
-🔗 Links
-
-- Website: https://sprucehill.co  
-- X: https://x.com/sayenden  
-- LinkedIn: https://linkedin.com/in/sayenden  
-- Email: sayenden@sprucehill.co  
+If you’re working on agents-as-teammates, small-business automation, or new ways for solo builders to scale, I’m always open to compare notes.
 
 ---
+
+## 🔗 Links
+
+- 🌐 Website: https://sprucehill.co  
+- 🐦 X: https://x.com/sayenden  
+- 💼 LinkedIn: https://linkedin.com/in/sayenden  
+- ✉️ Email: [sayenden@sprucehill.co](mailto:sayenden@sprucehill.co)

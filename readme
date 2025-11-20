@@ -1,157 +1,111 @@
-<div align="center">
+# Hi, I'm Sayenden
 
-Hi, I'm **Sayenden** 👋
+I build systems that reduce cognitive load, streamline decisions, and give small teams and individual builders more leverage.  
+My work sits at the intersection of automation, money, rewards, and agents.
 
-Builder · Agentic Systems · Automation · Money, Rewards & Decision-Making
+I’ve been building zero-to-one products for more than a decade. My first company, RealtyForSale, grew quickly, was covered in major press (Yahoo! Finance, Globe & Mail, Toronto Star, Vancouver Sun), won a BC Business 30 Under 30 award, and I eventually sold my position. That experience anchored how I think about product: find a real problem, work backward, ship, learn, iterate.
 
-I’m exploring how far a single builder can go with a network of agents doing real work.
-
-[![X (Twitter)](https://img.shields.io/badge/X-@sayenden-000000?logo=twitter&logoColor=white)](https://x.com/sayenden)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayenden-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayenden)
-[![Website](https://img.shields.io/badge/Website-sprucehill.co-1F2933)](https://sprucehill.co)
-[![Email](https://img.shields.io/badge/Email-sayenden%40sprucehill.co-D14836?logo=gmail&logoColor=white)](mailto:sayenden@sprucehill.co)
-
-</div>
+During the week, I work in big tech shipping large-scale systems. Nights and weekends are where I pursue the ideas I’m convinced should exist.
 
 ---
 
-## 🌱 Where This Started
+## What I’m Building
 
-I’ve been building products for a while.  
-My first real attempt was **RealtyForSale**, a zero→one real estate marketplace that taught me what building actually feels like — uncertainty, iteration, and the occasional “this might actually work” moment.
+### Agentsie  
+Agentsie is my exploration into the idea that small businesses should operate with agentic leverage.  
+If you run a business, you usually need people to handle SEO, analytics, research, partnerships, insights, content shaping, market scanning, and more. Most small teams can’t hire for all of that.
 
-Weekdays, I work in big tech. I help shape systems at scale, learn from people sharper than me, and try to stay pretty humble about it.
+Agentsie tries to answer a simple question:  
+**What if you could spin up scoped agents as if they were team members?**
 
-Nights and weekends are where I chase the ideas that don’t let go.
+An SEO agent.  
+A research agent.  
+A retention agent.  
+A points-and-perks intelligence agent.  
+A competitor-tracking agent.
 
----
+Defined scopes. Predictable behavior. Real contribution.
 
-## 🧵 The Opportunity I’m Going After
-
-I keep coming back to the same cluster of problems:
-
-- Money and financial decisions  
-- Rewards, points, and value extraction  
-- Search, discovery, and content  
-- Automation and workflows  
-- Agents that can own real chunks of work  
-
-I don’t think the next wave of products in this space will be just “another app” or dashboard.  
-I think they’ll be **collections of focused agents** that understand context, do work, and help people decide with less friction.
-
-**Walletsie** is my focused way into that opportunity.  
-**Agentsie** is the enabling layer that makes it scalable.
+I’m proving it first inside Walletsie. If agents can materially support Walletsie, they can support many other small businesses too.
 
 ---
 
-## 🔧 What I’m Building
+### Walletsie  
+Walletsie is the real business where I apply agentic systems to a problem I care deeply about: money and everyday financial decisions.
 
-### 🧠 Agentsie — Agentic Workforce for Small Businesses
+It’s part financial guide, part rewards brain, part automation layer.  
+The goal is to help people reduce the mental overhead of managing money, make better decisions, and surface opportunities they’d miss on their own.
 
-**Agentsie** is my attempt to help small businesses “hire” agents like they’d hire employees.
-
-Instead of needing a full team for things like:
-- SEO and organic discovery  
-- content and research  
-- competitor and market monitoring  
-- analytics and retention insights  
-
-…you should be able to spin up scoped agents that:
-- own a narrow slice of work  
-- plug into your existing stack  
-- collaborate with other agents  
-- and report back with clear, explainable output
-
-I’m using **Walletsie** as the proving ground. If agents can reliably support different parts of Walletsie, they can support other small businesses too.
-
----
-
-### 💳 Walletsie — Money, Rewards, and Everyday Financial Choices
-
-**Walletsie** is the business I’m building in the middle of this opportunity space.
-
-It sits somewhere between:
-- a money copilot  
-- a rewards optimizer  
-- a trusted guide for “what’s the smart move here?”  
-
-The long-term arc I’m exploring is:
-
-- How much of the repetitive, analytical work around money and rewards can be handled by agents?  
-- How can automation and agents reduce the cognitive load of everyday decisions without taking control away from the user?
-
-Walletsie is both a real product and a testbed for agentic operations.
+Walletsie is also my testbed:  
+How far can agentic systems go in supporting a live product with real users and evolving needs?
 
 https://walletsie.com/
 
 ---
 
-### 🌲 Spruce Hill — Supporting Other Builders
+## How I Think About Product
 
-**Spruce Hill** is a small, selective fund I run to support early builders.
-
-It keeps me close to:
-- how other people are attacking hard problems  
-- what kinds of tools and systems they wish existed  
-- where agents and automation might actually help, not just sound good in a deck
-
-https://sprucehill.co/
-
----
-
-## 🧠 How I Work
-
-I gravitate toward problems that are:
-
-- behavior-driven  
-- messy and nonlinear  
-- full of repeated decisions  
-- high in cognitive overhead  
+My work tends to revolve around problems that feel messy:
+- high cognitive load  
+- repeated decisions  
+- behavior-driven patterns  
+- ambiguous workflows  
+- information that’s hard to organize but important to understand  
 
 I like:
 - starting from scratch  
-- shipping small, fast experiments  
-- tightening feedback loops with real users  
-- tools that simplify, not impress  
-- systems that scale quietly in the background  
+- stripping away everything unnecessary  
+- shipping fast and fixing what matters  
+- building systems that scale quietly  
+- tools that make people feel more capable, not more overwhelmed  
 
-I’ve worked across both large-scale internal systems and smaller consumer-facing products, but the pattern I care about most is simple:  
-**take something from nothing → something real.**
-
----
-
-## 🚀 Why I’m Building This
-
-I think software is shifting from being a **collection of tools** to being more like a **team you collaborate with**.
-
-In that world:
-- individuals and small teams can punch way above their weight  
-- agents can own ongoing responsibilities, not just one-off tasks  
-- and the boundary between “builder” and “organization” looks different
-
-I’m building **Agentsie** to explore that shift directly.  
-I’m building **Walletsie** because money, rewards, and everyday decisions are where this feels especially valuable and human.
-
-The goal isn’t to posture about scale.  
-It’s to see how far a focused builder can go with the right agentic layer — and to build useful, grounded products along the way.
+Zero-to-one isn’t a phase — it’s a mindset:  
+take something unclear, understand the core tension, and turn it into something real.
 
 ---
 
-## 📌 About Me
+## My View on Agents
 
-- Builder at heart, PM by trade  
-- Started with **RealtyForSale** (0→1 ML-powered marketplace)  
-- Work in big tech; build **Walletsie** and **Agentsie** outside of it  
-- Interested in agents, automation, fintech, rewards, and decision systems  
-- Learn by shipping, not by theorizing
+Software is shifting from a world of “tools you operate” to “teammates you assign work to.”  
+Not general AI, not magic — just scoped, reliable agents that handle meaningful responsibilities.
 
-If you’re working on agents-as-teammates, small-business automation, or new ways for solo builders to scale, I’m always open to compare notes.
+Agents at their best should:
+- observe  
+- reason  
+- take action  
+- report back  
+- and stay within well-defined boundaries  
+
+Agentsie is my way of building a practical version of this future.  
+Walletsie is where the theory meets reality.
+
+I care less about hype and more about whether agents can:
+- uncover opportunities  
+- reduce friction  
+- provide leverage to small teams  
+- and make decisions easier and clearer  
+
+That’s the through-line of my work.
 
 ---
 
-## 🔗 Links
+## About Me
 
-- 🌐 Website: https://sprucehill.co  
-- 🐦 X: https://x.com/sayenden  
-- 💼 LinkedIn: https://linkedin.com/in/sayenden  
-- ✉️ Email: [sayenden@sprucehill.co](mailto:sayenden@sprucehill.co)
+• Builder first, PM second  
+• Co-founded and exited RealtyForSale  
+• Press features: Yahoo! Finance, Globe & Mail, Toronto Star, Vancouver Sun  
+• BC Business 30 Under 30 recipient  
+• Build Walletsie and Agentsie outside my day job  
+• Interested in automation, agents, fintech, decision systems, rewards optimization  
+• I learn by shipping, not theorizing  
+
+If you’re working on agentic workflows, automation for small teams, or decision systems, I’m always open to talk.
+
+---
+
+## Links
+
+GitHub: https://github.com/sayenden  
+X: https://x.com/sayenden  
+LinkedIn: https://linkedin.com/in/sayenden  
+Email: sayenden@sprucehill.co
